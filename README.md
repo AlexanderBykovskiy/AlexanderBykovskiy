@@ -17,13 +17,19 @@
         <img src="https://img.shields.io/badge/Instagram-e2306c?logo=instagram&logoColor=white" alt="link to instagram"/>
     </a>
 </div>
-<div align="center">
+<hr/>
+<div align="center" style="margin-top: 60px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexanderBykovskiy&theme=transparent" alt="">
 </div>
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexanderBykovskiy&theme=transparent" alt="">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexanderBykovskiy&theme=transparent" alt="">
 </div>
+<hr/>
+<div align="center">
+    <img src="https://www.codewars.com/users/AlexanderBykovskiy/badges/large" alt="">
+</div>
+<hr/>
 <div>
     <h2>Languages and tools</h2>
     <h4>Styling</h4>
