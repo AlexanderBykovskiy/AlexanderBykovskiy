@@ -17,6 +17,13 @@
         <img src="https://img.shields.io/badge/Instagram-e2306c?logo=instagram&logoColor=white" alt="link to instagram"/>
     </a>
 </div>
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexanderBykovskiy&theme=transparent" alt="">
+</div>
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexanderBykovskiy&theme=transparent" alt="">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexanderBykovskiy&theme=transparent" alt="">
+</div>
 <div>
     <h2>Languages and tools</h2>
     <h4>Styling</h4>
@@ -28,7 +35,7 @@
         <img src="https://img.shields.io/badge/Stylus-333333?logo=stylus&logoColor=white" alt="stylus"/>&nbsp;
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="stylus"/>&nbsp;
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="stylus"/>&nbsp;
-        <img src="https://img.shields.io/badge/Handlebarsdotjs-000000?logo=handlebarsdotjs&logoColor=white" alt="stylus"/>&nbsp;
+        <img src="https://img.shields.io/badge/Handlebarsdotjs-white?logo=handlebarsdotjs&logoColor=000000" alt="stylus"/>&nbsp;
     </div>
     <h4>Languages and runtimes</h4>
     <div>
