@@ -3,9 +3,13 @@
     <h1>
         Hi there, I'm Alexander
     </h1>
-    <p>
-        Frontend developer (full-stack developer in the past).
-    </p>
+    <ul>
+        <li>Frontend developer (full-stack developer in the past). Currently, I am working as a Team Lead (Frontend).</li>
+        <li>Education: Ph.D. in Technical Sciences (Faculty of Physics and Mathematics).</li>
+        <li>I am interested in everything related to programming, but my greatest passion is Frontend development and Arduino.</li>
+        <li>I also enjoy sports (running, basketball, and even capoeira), traveling, nature, and photography.</li>
+        <li>I enjoy sharing my experience with others as a volunteer at Yandex.Practicum.</li>
+    </ul>
 </div>
 <div>
     <a href="https://www.linkedin.com/in/bykovskiyan" target="_blank">
@@ -33,7 +37,7 @@
 </div>
 <hr/>
 <div>
-    <h2>Languages and tools</h2>
+    <h2>Languages and tech stack</h2>
     <h4>Styling</h4>
     <div>
         <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="html"/>&nbsp;
