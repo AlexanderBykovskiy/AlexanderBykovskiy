@@ -37,14 +37,21 @@
 ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![c++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white)
 
 #### Frameworks and technologies
 
 ![react](https://img.shields.io/badge/React-white?logo=react&logoColor=61DAFB)
 ![next.js](https://img.shields.io/badge/Next.js-white?logo=nextdotjs&logoColor=000000)
+![redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
 ![redux saga](https://img.shields.io/badge/Redux_Saga.js-white?logo=reduxsaga&logoColor=87d46c)
+![zustand](https://img.shields.io/badge/Zustand-433E38?logo=react&logoColor=white)
 ![react query](https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white)
+![tanstack query](https://img.shields.io/badge/TanStack_Query-FF4154?logo=reactquery&logoColor=white)
+![rtk query](https://img.shields.io/badge/RTK_Query-764ABC?logo=redux&logoColor=white)
 ![electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
 ![tauri](https://img.shields.io/badge/Tauri-24C8DB?logo=tauri&logoColor=white)
 ![react hookform](https://img.shields.io/badge/React_Hookform-EC5990?logo=reacthookform&logoColor=white)
